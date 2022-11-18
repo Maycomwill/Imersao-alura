@@ -1,0 +1,21 @@
+{
+  "name": "Maycom Willams",
+  "job": "Front-end student",
+  "github": "maycomwill",
+  "playlists": {
+    "jogos": [
+      {
+        "title": "título de jogos",
+        "url": "https://www.youtube.com/watch?v=G2gpCCX-NPU",
+        "thumbnail": "https://i.ytimg.com/vi/G2gpCCX-NPU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN11QZF-8lFO-mQ3GhXTcGJg6EEA"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "título de front-end",
+        "url": "https://www.youtube.com/watch?v=SOuxFH3vCmI",
+        "thumbnail": "https://i.ytimg.com/vi/SOuxFH3vCmI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVFoHu-KuwN5yyBDsSTxCoo5OT2w"
+      }
+    ]
+  }
+}
